@@ -1,4 +1,6 @@
 Test
+
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/ec685e67-0e3b-4bb1-824f-b9850fd88f18.svg)](https://app.soluble.cloud/repos/details/github.com/gareda/tfm-virtualnetwork)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/2a6df3ba-f654-465a-a94c-3c2b359378b7.svg)](https://app.soluble.cloud/repos/details/github.com/gareda/tfm-virtualnetwork)  
 -----
 [![Build Status](https://dev.azure.com/jamesdld23/vpc_lab/_apis/build/status/JamesDLD.terraform-azurerm-Az-VirtualNetwork?branchName=master)](https://dev.azure.com/jamesdld23/vpc_lab/_build/latest?definitionId=13&branchName=master)
 
